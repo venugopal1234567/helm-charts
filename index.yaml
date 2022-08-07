@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  buildachart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-07T16:06:41.458151087Z"
+    description: A Helm chart for Kubernetes
+    digest: 21ec747f51c03e06878906012d2b6fd8523b1bca372edce4cdd6c884d8bcd113
+    name: buildachart
+    type: application
+    urls:
+    - https://venugopal1234567.github.io/helm-charts/buildachart-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-08-07T16:06:41.457469582Z"
